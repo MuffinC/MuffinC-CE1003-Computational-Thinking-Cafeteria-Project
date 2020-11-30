@@ -7,3 +7,4 @@ Please execute and download the several libraries in command prompt
 pip install pillow
 pip install tkcalendar 
 pip install
+Finally this also includes our report for the project + presentation 
